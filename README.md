@@ -55,21 +55,6 @@ And S3 is zero.
 
  
 
-Programming language
-Any language is OK.
-
- 
-
-Input
-Read the initial arrangements from a file called "2048_in.txt". The file starts with N, number of test cases. Then there are 4N lines, 4 lines for each test case. On each line we have four numbers separated by comma. For empty places put a zero.
-
- 
-
-Output
-Print the output in a file called "2048_out.txt". For each test case, print the maximum score and then three moves (use L for left, R for right, U for up, and D for down). Separate each value (score and the moves) with a comma.
-
- 
-
 Example input file:
 1
 
